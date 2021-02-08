@@ -31,7 +31,7 @@ const data = {
             image: '/images/p3.jpg',
             brand: 'Nike',
             price: 220,
-            countInStock: 0,
+            countInStock: 12,
             rating: 4.8,
             numReviews: 17,
             description: 'high quality product'
