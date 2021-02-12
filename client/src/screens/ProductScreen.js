@@ -20,6 +20,7 @@ const ProductScreen = (props) => {
         props.history.push(`/cart/${productId}?qty=${qty}`)
     }
 
+
     return (
         <div>
             {loading ? (
